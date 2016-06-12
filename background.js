@@ -10,7 +10,7 @@ var timer = setInterval(function() {
 		type: "get",
 		timeout: 6000,
 		async: true,
-		url: "https://favorite.taobao.com/popup/add_collection.htm?spm=2013.1.1000126.d22.WmpS9q&id=100090892&itemid=100090892&itemtype=0&ownerid=e71f91b7b5d4190e2f0b7ebc51630896&scjjc=2&_tb_token_=DyoKBwEFXI6GQQ",
+		url: "https://favorite.taobao.com/popup/add_collection.htm?spm=2013.1.1000126.d22.Y3AWyk&id=72096251&itemid=72096251&itemtype=0&ownerid=74b0d7b4f568d632a5f5123b6ed06f50&scjjc=2&_tb_token_=DyoKBwEFXI6GQQ",
 		success: function(data) {
 		}
 	});
@@ -50,3 +50,4 @@ var timer = setInterval(function() {
 	randomTime += "0000";
 	randomTime *= 1;
 }, randomTime);
+
